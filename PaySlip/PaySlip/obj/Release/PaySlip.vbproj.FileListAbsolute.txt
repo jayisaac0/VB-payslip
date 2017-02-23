@@ -1,0 +1,12 @@
+P:\VB\PaySlip\PaySlip\bin\Release\PaySlip.exe.config
+P:\VB\PaySlip\PaySlip\bin\Release\PaySlip.exe
+P:\VB\PaySlip\PaySlip\bin\Release\PaySlip.pdb
+P:\VB\PaySlip\PaySlip\bin\Release\PaySlip.xml
+P:\VB\PaySlip\PaySlip\obj\Release\PaySlip.vbprojResolveAssemblyReference.cache
+P:\VB\PaySlip\PaySlip\obj\Release\PaySlip.Form1.resources
+P:\VB\PaySlip\PaySlip\obj\Release\PaySlip.Form2.resources
+P:\VB\PaySlip\PaySlip\obj\Release\PaySlip.Resources.resources
+P:\VB\PaySlip\PaySlip\obj\Release\PaySlip.vbproj.GenerateResource.Cache
+P:\VB\PaySlip\PaySlip\obj\Release\PaySlip.exe
+P:\VB\PaySlip\PaySlip\obj\Release\PaySlip.xml
+P:\VB\PaySlip\PaySlip\obj\Release\PaySlip.pdb
